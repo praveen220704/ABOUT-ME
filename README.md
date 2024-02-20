@@ -5,7 +5,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning full Stack MERN devolopment...  
-- 🤔 &nbsp; Exploring new technologies and developing software solution and quick hacks.
 - 🎓 &nbsp; Studied  Computer Science, computer programming and Mathematics...
 - 💼 &nbsp; Done a projects under Front-end web Development...  
 - 🌱 &nbsp; Enthusiast in web designing and devolopment.
@@ -32,4 +31,4 @@
 </p>
 
 ⭐️ From [praveen prasath](https://github.com/praveen220704)
-<a href="https://www.linkedin.com/in/praveen-prasath-a31887245/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://www.linkedin.com/in/praveen-prasath-a31887245/" target="_blank"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
